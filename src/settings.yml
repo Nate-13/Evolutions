@@ -1,0 +1,25 @@
+
+blaze-shield-resistance: 0.15
+wither-shield-damage: 0.15
+
+mob-assasin-resistance: 0.15
+enhanced-endurance-damage: 0.15
+green-thumbs-strength: 0.50
+
+dragon-scales-resistance: 0.15
+dragon-breath-damage: 0.15
+
+turtle-shell-resistance: 0.15
+prismarine-spikes-damage: 0.15
+guardians-aura-damage: 0.10
+guardians-aura-range: 30
+
+denser-air-resistance: 0.15
+turbo-dexterity-damage: 0.15
+gemstone-extractor-chance: 30
+
+hide-locked-skills: true
+
+blacklisted-worlds:
+  - 'example1'
+  - 'example2'
